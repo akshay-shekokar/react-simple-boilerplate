@@ -1,4 +1,5 @@
 
+====================================================================================
 Creating simple Boilerplate:
 
 1. npm init 
@@ -73,3 +74,7 @@ module.exports = {
     },
     plugins: [new webpack.HotModuleReplacementPlugin()]
 };
+
+Reference: https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
+
+====================================================================================
